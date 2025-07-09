@@ -68,10 +68,10 @@
 
 ---
 
-## 📈 Visitors
+### 📈 Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=RendiHardi&color=purple&style=flat-square)
-<a><img src="https://img.shields.io/github/followers/RendiHardi?label=Followers&style=social" alt="GitHub Badge"></a>
+![Visitor Count](https://komarev.com/ghpvc/?username=RendiHardi&color=8a2be2&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/RendiHardi?label=Followers&style=social)
 
 ---
 
