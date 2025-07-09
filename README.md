@@ -53,9 +53,9 @@
 
 ---
 
-## 🕹️ Contribution Snake
+## 🐍 Contribution Snake
 
-[![GitHub Snake](https://github.com/RendiHardi/RendiHardi/blob/output/github-contribution-grid-snake.svg)](https://github.com/RendiHardi)
+[![GitHub Snake](https://github.com/rendihardi/rendihardi/blob/output/github-contribution-grid-snake.svg)](https://github.com/rendihardi)
 
 ---
 
