@@ -1,10 +1,10 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9333EA&size=28&multiline=true&width=700&lines=Welcome+to+Rendi+Hardiartama's+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22F76D&size=28&multiline=true&width=700&lines=Welcome+to+Rendi+Hardiartama's+GitHub+Profile)](https://git.io/typing-svg)
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
 
 ## Hi there, I'm Rendi Hardiartama 👋  
-🎓 Fresh graduate Sistem Informasi – UPN "Veteran" Jawa Timur  
+💡 Tech enthusiast who loves building, analyzing, and solving real-world problems with code  
 💻 Tech enthusiast with passion for **Data Analysis**,and **Web Development**  
 > *"Well done is better than well said."* 💪
 
