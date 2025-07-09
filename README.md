@@ -16,12 +16,16 @@
 ---
 
 ## 📬 Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/rendihardiartama/" target="blank">
+<a href="https://www.linkedin.com/in/rendi-hardiartama/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:rendirenhard@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rendirenhard@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://instagram.com/rendy_hrdt" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+</a>
+
 
 <br><br>
 
