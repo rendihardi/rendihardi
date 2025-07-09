@@ -2,17 +2,16 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # setiap hari jam 00:00 UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Run setiap hari jam 00:00 UTC
+  workflow_dispatch:      # Bisa dijalankan manual juga
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    name: Generate snake.svg
     steps:
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3
         with:
-          github_user_name: RendiHardi
+          github_user_name: rendihardi
           outputs: |
             ./github-contribution-grid-snake.svg
 
